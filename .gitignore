@@ -1,0 +1,24 @@
+# Node
+node_modules/
+.npm/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Netlify
+.netlify/
+
+# Misc
+.env
+*.swp
+*.bak 
